@@ -77,4 +77,4 @@ gem "omniauth"
 gem "omniauth-oauth2"
 gem "omniauth-rails_csrf_protection"
 
-gem "overcommit", "~> 0.72.0", group: :development
+gem "overcommit", "~> 0.73.0", group: :development
